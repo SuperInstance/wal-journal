@@ -1,0 +1,11 @@
+[package]
+name = "wal-journal"
+version = "0.1.0"
+edition = "2021"
+description = "Write-ahead log with checkpointing, crash recovery, and sequence numbers"
+license = "MIT"
+repository = "https://github.com/SuperInstance/wal-journal"
+keywords = ["wal", "database", "journal", "recovery"]
+categories = ["database", "algorithms"]
+
+[dependencies]
